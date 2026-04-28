@@ -16,7 +16,7 @@ bash scripts/biomedmvsl/batch_all.sh
 If you use our work, please consider citing:
 ```bibtex
 @article{xiaoliuluo2026biomedmvsl,
-        title={BiomedCoOp: Multi-View Synergistic Learning with Vision-Language Adaption for Low-Resource Biomedical Image Classification},
+        title={Multi-View Synergistic Learning with Vision-Language Adaption for Low-Resource Biomedical Image Classification},
         author={Xiaoliu Luo, Minxue Xiao, Ting Xie, Mengzhu Wang, Huiqing Qi, Joey Tianyi Zhou, Taiping Zhang, Xu Wang},
         journal={arXiv preprint arXiv:2604.23977},
         year={2026}
