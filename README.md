@@ -11,7 +11,8 @@ Please follow the instructions at [DATASETS.md](assets/DATASETS.md) to prepare a
 bash scripts/biomedmvsl/batch_all.sh 
 
 ## Results
-The pretrained models can be found in [[link](https://huggingface.co/Willowluo/MVSL)]
+The pretrained models are available at:
+[[MVSL on Hugging Face](https://huggingface.co/Willowluo/MVSL)]
 
 <hr />
 
