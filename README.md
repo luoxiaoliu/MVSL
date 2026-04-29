@@ -10,7 +10,8 @@ Please follow the instructions at [DATASETS.md](assets/DATASETS.md) to prepare a
 ## Training and Evaluation
 bash scripts/biomedmvsl/batch_all.sh 
 
-##The pretrained models can be found in [[link](https://huggingface.co/Willowluo/MVSL)]
+## Results
+The pretrained models can be found in [[link](https://huggingface.co/Willowluo/MVSL)]
 
 <hr />
 
